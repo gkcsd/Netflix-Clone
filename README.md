@@ -13,7 +13,7 @@ Netflix clone App in react using themoviedb.org API (free plan). In this app, us
 
 ## Live Preview URL
 
-[Go to site](https://netflix-clone-7536d.web.app/)
+[Netflix-Clone](https://netflix-clone-7536d.web.app/)
 
 ### Getting Started with Create React App
 
