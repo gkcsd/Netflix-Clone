@@ -1,8 +1,25 @@
-# Getting Started with Create React App
+# Netflix-Clone
+
+## Tech Stack:
+
+    React
+    Axios
+    themoviedb.org API
+
+## Features:
+
+Netflix clone App in react using themoviedb.org API (free plan). In this app, users can search movies and watch trailers on the basis of their categories. There are multiple section as like Netflix where users can watch their favourite movies trailers. 
+
+
+## Live Preview URL
+
+[Go to site](https://netflix-clone-7536d.web.app/)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
